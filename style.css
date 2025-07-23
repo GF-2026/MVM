@@ -65,15 +65,14 @@ place-items: center;
   background: #004999;
 }
 
-/* Estilos para el video responsivo */
+/* Estilos para el video responsivo 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   margin-bottom: 2rem;
 }
-
 .video-container iframe.video-frame {
   position: absolute;
   top: 0;
