@@ -86,7 +86,8 @@ place-items: center;
 .carrusel {
   width: 95%;
   max-width: 100%;
-  aspect-ratio: 16 / 11; /* o 16/9, si quieres formato más apaisado */
+  Height:auto;
+  aspect-ratio: 16 / 13; /* o 16/9, si quieres formato más apaisado */
   position: relative;
   overflow: hidden;
   margin: auto;
