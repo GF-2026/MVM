@@ -87,7 +87,8 @@ place-items: center;
   width: 95%;
   max-width: 100%;
   Height:auto;
-  aspect-ratio: 16 / 13; /* o 16/9, si quieres formato más apaisado */
+  max-height:100%;
+  aspect-ratio: 4 / 3; /* o 16/9, si quieres formato más apaisado */
   position: relative;
   overflow: hidden;
   margin: auto;
