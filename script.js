@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
    let indice = 0;
-  const imagenes = document.querySelectorAll('.carrusel img');
+  var imagenes = document.querySelectorAll('.carrusel img');
 
   function mostrarImagen(i) {
     imagenes.forEach((img, index) => {
